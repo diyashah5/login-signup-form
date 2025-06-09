@@ -4,7 +4,7 @@ A simple login and signup page made while learning HTML, CSS, and JavaScript.
 
 ## Preview
 
-![Preview](preview.png)
+![Preview](preview.PNG)
 
 ## Features
 - Login form with a register button
